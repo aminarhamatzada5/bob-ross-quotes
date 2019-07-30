@@ -1,0 +1,48 @@
+
+body {
+  border: dotted;
+  border-color: #3225E8;
+  font-family: 'Zeyada', cursive;
+  background-color: #C7F9FC;
+  text-align: center;
+}
+
+.h1 {
+  font-size: 70px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.button {
+  border: dotted;
+  border-color: #3225E8;
+  margin: 25px;
+  font-color: #89FF8C;
+  text-align: center;
+  width: 400px;
+  height: 125px;
+  font-size: 25px;
+  font-family: 'Zeyada', cursive;
+  background-color: #3FD9A0;
+}
+
+#quotes {
+  border: dotted;
+  font-size: 60px;
+  font-color: #51EE26;
+  border-color: #3225E8;
+
+}
+
+.img {
+  border: dotted;
+  border-color: #3225E8;
+  height: 300px;
+  width: 400px;
+  object-fit: cover;
+  margin: 50px;
+}
